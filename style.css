@@ -1,0 +1,30 @@
+body	{
+	background: url(https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-9/11222414_1726008637684565_6861514320457743232_n.jpg?oh=651ede5aaab8b6f9edd3f3d53c70ad25&oe=5A730DC8);
+	background-size: cover;
+	background-position: right-center;
+}
+
+.sadrzaj {
+	color: white;
+	text-align: center;
+	padding-top: 5%;
+}
+
+html	{
+	height: 100%;
+}
+
+.sadrzaj h1 {
+	font-weight: 700;
+	font-size: 5em;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),	
+				 2px 8px 6px rgba(0,0,0,0.1),
+				 4px 16px 12px rgba(0,0,0,0.1);
+}
+
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
